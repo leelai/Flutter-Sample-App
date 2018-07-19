@@ -1,8 +1,5 @@
-# flutter_app_as
+# Flutter Sample Application
 
-A new Flutter application.
+This repo is part of our blog post about the Flutter platform and how to get started using it.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Please see https://blog.testfairy.com/
